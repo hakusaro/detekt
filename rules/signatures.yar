@@ -1,2 +1,6 @@
 include "rcs.yar"
 include "finfisher.yar"
+include "equation_cryptotable.yar"
+include "equation_exploitlib.yar"
+include "equation_runtimeclasses.yar"
+include "doublefantasy_config.yar"
